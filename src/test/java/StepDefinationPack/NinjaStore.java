@@ -20,6 +20,7 @@ public class NinjaStore {
 	
 	WebDriver driver;
 	
+	//Given Special Keyword
 	@Given("^Navigate to tutorialsninja website$")
 	public void navigatetotutorialsninjawebsite()  {
 		
